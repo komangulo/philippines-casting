@@ -286,7 +286,7 @@ const Index: React.FC = () => {
         
         {/* Success Stories */}
         <section className="w-full mb-16 px-4">
-          <SectionTitle>THAILAND CASTING PORN AUDITION {t('successStories')}</SectionTitle>
+          <SectionTitle>PHILIPPINES CASTING PORN AUDITION {t('successStories')}</SectionTitle>
           <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto mt-12">
             {[
               {
@@ -358,7 +358,7 @@ const Index: React.FC = () => {
         
         {/* FAQ Section */}
         <section className="w-full mb-16 px-4">
-          <SectionTitle>THAILAND CASTING PORN AUDITION {t('faq')}</SectionTitle>
+          <SectionTitle>PHILIPPINES CASTING PORN AUDITION {t('faq')}</SectionTitle>
           <div className="max-w-3xl mx-auto space-y-4">
             {[
               {
